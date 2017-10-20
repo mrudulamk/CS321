@@ -1,1 +1,1 @@
-# cs.mum
+# cs.mum.courses
